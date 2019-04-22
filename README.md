@@ -9,6 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Prerequisites:
 Android Studio IDE
+An Android device Running android 7.0
 OpenCV Module Android Package (free-downloadable at https://opencv.org/)
 Developer Options enabled on your device with USB  debuggin enabled
 ADB installed installed onto the PC (if you chose to install the application via USB cable)
