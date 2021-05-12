@@ -1,5 +1,8 @@
 # Project Title:
   The Art's of Post Processing Algorithms on Android 
+  
+# About:
+This application was purely built for research purposes to get a general understanding of image processing on Android smartphones as well as understanding the technicality behind the algorithm which develops and enhances an image from the camera sensor.
 
 # Application Name:
 Vision X
